@@ -21,7 +21,7 @@ This plugin supports LiteCommerce version 2.2.
  4. On the confirmation page, review your changes then click the “Confirm button”.
 
  ## Documentation
-[LiteCommerce documentation]()
+[LiteCommerce documentation](https://github.com/asiapay-lib/asiapay-LiteCommerce/blob/master/AsiaPay%20PayGate%20Integration%20Guide%20-%20For%20LiteCommerce%202.2.%20module%20using%20CPTB.doc?raw=true)
 
 ## Support
 If you have a feature request, or spotted a bug or a technical problem, create a GitHub issue. For other questions, contact our [Customer Service](https://www.paydollar.com/en/contactus.html).
