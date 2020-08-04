@@ -1,0 +1,1 @@
+INSERT INTO xlite_payment_methods SET payment_method='asiapayclientpost', name='AsiaPay\'s Client Post', details='Redirects to a secure payment page', class='asiapayclientpost', orderby='10', enabled='1', params='';

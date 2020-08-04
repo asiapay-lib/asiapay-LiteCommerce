@@ -1,0 +1,2 @@
+paymentmethod_asiapayclientpost:modules/AsiaPayClientPost/kernel/PaymentMethod/asiapayclientpost.php:paymentmethod_credit_card
+module_asiapayclientpost:modules/AsiaPayClientPost/AsiaPayClientPost.php:module
