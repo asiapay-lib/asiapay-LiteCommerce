@@ -1,6 +1,9 @@
 # PayDollar/SaimPay/PesoPay Payment plugin for LiteCommerce
 Use PayDollar/SaimPay/PesoPays plugin for LiteCommerce to offer ALL payments option.
 
+## Download
+Please download the latest plugin version. [Download](https://github.com/asiapay-lib/asiapay-LiteCommerce/releases/latest)
+
 ## Integration
 The plugin integrates LiteCommerce with PayDollar/SaimPay/PesoPay payment gateway with All payment method.
 
